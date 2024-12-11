@@ -3,7 +3,27 @@ Assessment repository for the Applied Statistics module in ATU - 2024
 
 ## Overview
 
-This repository contains my submissions for the tasks and project assigned as the Applied Statistics module of the Hdip in data analytics in ATU. 
+This Jupyter Notebook is my submission for the Applied Statistics module at Atlantic Technological University (ATU). The project is developed in Python and leverages several key libraries to perform statistical analysis and data visualization.
+
+## Libraries Used
+
+- math: Provides basic mathematical functions.
+- itertools: Offers tools for creating iterators for efficient looping.
+- random: Used for generating random numbers.
+- numpy: Fundamental package for numerical computations.
+- matplotlib.pyplot: Used for creating static, interactive, and animated visualizations.
+- scipy.stats: Contains a wide range of statistical functions.
+- statsmodels: Provides classes and functions for the estimation of many different statistical - models.
+- pandas: Essential for data manipulation and analysis.
+- seaborn: Built on top of matplotlib, used for making statistical graphics.
+
+## How to Run
+
+- Ensure you have Python installed on your system.
+- Install the required libraries using pip:
+pip install numpy matplotlib scipy statsmodels pandas seaborn
+- Open the Jupyter Notebook and run the cells sequentially to reproduce the analysis.
+
 
 ## Contents
 
